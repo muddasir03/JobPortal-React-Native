@@ -63,7 +63,7 @@ Clone the project
 change directory
 
 ```bash
-  cd Uber-Clone
+  cd JobPortal-React-Native
 ```
 
 Install dependencies
