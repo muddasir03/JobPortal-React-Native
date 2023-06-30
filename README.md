@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/84333971/233637170-e0e77501-9273-4029-9c91-08c269cd17bc.png" alt="logo" width="1200"/>
   
-  # Job Portal with REACT NATIVE!
+  
+  
   <p>
 Job Portal with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Job API)
   </p>
